@@ -1,5 +1,5 @@
 #!/bin/bash
-
+cd ..
 # Instalar Transmission
 sudo apt-get update
 sudo apt-get install transmission-cli -y
